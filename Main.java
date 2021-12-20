@@ -1,11 +1,7 @@
-import main.MotorBike;
-import main.Vehicle;
-import main.Car;
-import main.TollCalculator;
+package main.TollCalculator;
 
 
 import java.time.LocalDateTime;
-
 
 public class Main {
     public static void main(String[] args) {
